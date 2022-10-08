@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_star2lte.mk
+    $(LOCAL_DIR)/proton_star2lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_star2lte-eng \
-    aosp_star2lte-user \
-    aosp_star2lte-userdebug
+    proton_star2lte-eng \
+    proton_star2lte-user \
+    proton_star2lte-userdebug
